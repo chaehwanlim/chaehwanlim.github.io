@@ -2,7 +2,7 @@
 layout: post
 title: "테스트 포스트"
 subtitle: ""
-date: 2020-06-03
+date: 2020-06-02
 background: ''
 ---
 
