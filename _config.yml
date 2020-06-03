@@ -1,7 +1,7 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              DEVHWAN
+email:              chlim428@gmail.com
+description:        A Blog to Record What I Learned
+author:             chaehwanlim
 baseurl:            ""
 url:                "https://chaehwanlim.github.io"
 
@@ -22,3 +22,5 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+
+google_fonts: "Inter:300,400,500,700, Noto+Sans+KR:300,400,500,700"
